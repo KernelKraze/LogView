@@ -10,7 +10,8 @@ from rich.table import Table
 console = Console()
 
 # Define the path to the log directory and the correct log file name
-log_directory = "/var/log"
+#log_directory = "/var/log"
+log_directory = "example_log"
 log_file_name = "kern.log"  # Ensure the correct file name is used
 
 # Find all log files including rotated and compressed ones

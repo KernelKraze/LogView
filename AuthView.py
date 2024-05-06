@@ -10,8 +10,10 @@ from rich.table import Table
 console = Console()
 
 # Define the directory where log files are stored and the base name of the log files
-log_directory = "/var/log"
+#log_directory = "/var/log"
+log_directory = "example_log"
 log_file_name = "auth.log"
+
 
 # Find all log files, including rotated and compressed files, in the specified directory
 log_files = sorted(glob.glob(os.path.join(log_directory, log_file_name + '*')), reverse=True)

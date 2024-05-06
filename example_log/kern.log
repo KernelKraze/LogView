@@ -1,0 +1,2 @@
+2023-05-01T12:30:00.456+00:00 localhost kernel: EXT4-fs warning (device sda1): ext4_resize_begin: No space left on device
+2023-05-01T12:32:00.789+00:00 localhost kernel: hwmon1: Undervoltage detected

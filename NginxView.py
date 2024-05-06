@@ -11,7 +11,8 @@ from rich.text import Text
 console = Console()
 
 # Define the directory where Nginx log files are stored and the log file name pattern
-log_directory = "/var/log/nginx"
+#log_directory = "/var/log/nginx"
+log_directory = "example_log/nginx"
 log_file_pattern = "access.log*"
 
 # Find all Nginx access log files, including rotated and compressed files

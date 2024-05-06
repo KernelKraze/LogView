@@ -11,7 +11,8 @@ from rich.text import Text
 console = Console()
 
 # Define the directory where log files are stored and the base name of the log files
-log_directory = "/var/log"
+#log_directory = "/var/log"
+log_directory = "example_log"
 log_file_name = "syslog"
 
 # Find all syslog files, including rotated and possibly compressed files

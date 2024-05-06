@@ -8,7 +8,8 @@ from rich.text import Text
 
 console = Console()
 
-log_directory = "/var/log/mongodb"
+#log_directory = "/var/log/mongodb"
+log_directory = "example_log"
 log_file_name = "mongod.log"
 
 log_files = sorted(glob.glob(os.path.join(log_directory, log_file_name + '*')), reverse=True)

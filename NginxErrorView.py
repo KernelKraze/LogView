@@ -11,12 +11,12 @@ from rich.text import Text
 console = Console()
 
 # Define the directory where Nginx error log files are stored and the log file name pattern
-error_log_directory = "/var/log/nginx"
+#error_log_directory = "/var/log/nginx"
+error_log_directory = "example_log/nginx"
 error_log_file_pattern = "error.log*"
 
 # Find all Nginx error log files, including rotated and compressed files
 error_log_files = sorted(glob.glob(os.path.join(error_log_directory, error_log_file_pattern)), reverse=True)
-
 # Regex to parse the Nginx error log entries
 error_log_regex = re.compile(
     r'(?P<timestamp>\d{4}/\d{2}/\d{2} \d{2}:\d{2}:\d{2}) \[(?P<level>\w+)\] \d+#\d+: '

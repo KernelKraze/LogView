@@ -1,0 +1,1 @@
+{ "t": { "$date": "2023-05-01T12:40:00.123+00:00" }, "s": "W", "c": "STORAGE", "ctx": "initandlisten", "msg": "Initialized MongoDB", "attr": {"volume": "db1"}}

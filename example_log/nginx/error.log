@@ -1,0 +1,1 @@
+2023/05/01 12:45:00 [error] 1234#1: *5678 open() "/usr/share/nginx/html/index.html" failed (2: No such file or directory), client: 192.168.1.20, server: localhost, request: "GET /index.html HTTP/1.1", host: "localhost", referrer: "http://localhost/"
