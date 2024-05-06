@@ -52,7 +52,7 @@
 
 **시연 영상**
 
-![Demonstration Video](./video/demo.webm)
+![Demonstration Video](./docs/demo.gif)
 
 **doc**
 

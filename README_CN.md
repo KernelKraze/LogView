@@ -52,7 +52,7 @@
 
 **演示视频**
 
-![Demonstration Video](./video/demo.webm)
+![Demonstration Video](./docs/demo.gif)
 
 **doc**
 
