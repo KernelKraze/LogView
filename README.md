@@ -14,7 +14,7 @@
 ├── README_CN.md
 ├── README_KR.md
 ├── SysLogView.py
-├── doc
+├── 📂doc
 │   ├── AuthView.md
 │   ├── AuthView_CN.md
 │   ├── AuthView_KR.md
@@ -33,17 +33,17 @@
 │   ├── SysLogView.md
 │   ├── SysLogView_CN.md
 │   └── SysLogView_KR.md
-├── example_log
+├── 📂example_log
 │   ├── auth.log
 │   ├── kern.log
 │   ├── mongod.log
-│   ├── nginx
+│   ├── 📂nginx
 │   │   ├── access.log
 │   │   └── error.log
 │   └── syslog
 ├── generate_logs.py
 ├── test_output.py
-└── video
+└── 📂video
     └── demo.webm
 
 5 directories, 37 files
