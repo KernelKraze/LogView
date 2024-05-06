@@ -52,10 +52,7 @@
 
 **演示视频**
 
-<video width="320" height="240" controls>
-  <source src="./video/demo.webm" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demonstration Video](./video/demo.webm)
 
 **doc**
 
