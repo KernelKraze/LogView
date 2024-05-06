@@ -52,7 +52,7 @@
 
 **演示视频**
 
-![Demonstration Video](./docs/demo.gif)
+<img width="150px" src='docs/demo.gif' />
 
 **doc**
 
