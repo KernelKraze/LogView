@@ -52,7 +52,7 @@ This project handles and analyzes various types of logs to understand system sta
 
 **Demonstration Video**
 
-<img width="150px" src='docs/demo.gif' />
+![Demonstration Video](./docs/demo.gif)
 
 **doc**
 

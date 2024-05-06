@@ -52,7 +52,7 @@
 
 **시연 영상**
 
-<img width="150px" src='docs/demo.gif' />
+![Demonstration Video](./docs/demo.gif)
 
 **doc**
 
