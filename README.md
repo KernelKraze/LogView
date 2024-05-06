@@ -15,7 +15,7 @@ This project handles and analyzes various types of logs to understand system sta
 **Demonstration Video**
 
 <video width="320" height="240" controls>
-  <source src="./video/demo.webm" type="video/mp4">
+  <source src="./video/demo.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
