@@ -103,5 +103,5 @@
 
 This project handles and analyzes various types of logs to understand system status and troubleshoot issues. Each module provides detailed information about specific types of logs to help diagnose and resolve problems.
 
-[中文](https://example.com/README_CN.md)
-[한국어](https://example.com/README_KR.md)
+[中文](./README_CN.md)
+[한국어](./README_KR.md)
